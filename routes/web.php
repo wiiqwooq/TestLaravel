@@ -26,3 +26,6 @@ Route::get('/6014110010',function() {
 Route::get('/6014110022',function(){
     return view('6014110022');
 });
+Route::get('/6013140011',function(){
+    return view('6013140011');
+});
