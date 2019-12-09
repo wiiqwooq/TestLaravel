@@ -23,3 +23,6 @@ Route::get('/6014110025',function() {
 Route::get('/6014110010',function() {
     return view('6014110010');
 });
+Route::get('/6014110022',function(){
+    return view('6014110022');
+});
