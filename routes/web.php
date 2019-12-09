@@ -17,3 +17,6 @@ Route::get('/', function () {
 Route::get('/6014120021', function () {
     return view('6014120021');
 });
+Route::get('/6014110025',function() {
+    return view('6014110025');
+});
